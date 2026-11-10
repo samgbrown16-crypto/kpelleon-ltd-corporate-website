@@ -11,7 +11,7 @@ const COMPANY = {
   name: "Kpelleon Ltd",
   region: "Rwanda",
   // Replace this before launch with Kpelleon's official public business email.
-  email: "REPLACE_WITH_COMPANY_EMAIL",
+  email: "kpelleonltd8@gmail.com",
   // Add the official registered business address before publishing.
   address: "Gisozi, Kagara, Musezero, Gisozi, Gasabo, Kigali, Rwanda",
 };
